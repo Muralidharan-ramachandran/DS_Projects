@@ -1,0 +1,10 @@
+Tools used: 1.Visual Studio Code
+              programming language used : Python
+              libraries used : seaborn
+                               Matplotlib
+                               pandas 
+                               sqlalchemy 
+                               database_exists, create_database from sqlalchemy_utils
+                               streamlit
+             2.MySQL Workbench
+Project summary : With the give Forest and Grassland data for Bird observation the data has been cleaned and processed and EDA has been performed and insights have been posted on streamlit web application
